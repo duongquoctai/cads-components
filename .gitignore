@@ -1,3 +1,11 @@
 node_modules
 dist
 .vscode
+<<<<<<< HEAD
+=======
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+>>>>>>> e3dce612b8aa894e848d38afd882f254df0fa6bf
